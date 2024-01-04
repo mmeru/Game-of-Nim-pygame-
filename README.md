@@ -12,3 +12,4 @@ source env/bin/activate
 pip install -r requirements.txt
 ./nim.py # run program
 ```
+![ezgif-3-34d58ce68e](https://github.com/mmeru/Game-of-Nim-pygame-/assets/42815425/f35096e2-2a79-473b-913e-8008bdae3124)
